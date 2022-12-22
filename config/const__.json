@@ -1,0 +1,5 @@
+{
+    "port":4500,
+    "base_url":"/",
+    "jwt_secret_key": "fTjWnZr4u7x!A%D*G-JaNdRgUkXp2s5v8y/B?E(H+MbQeShVmYq3t6w9z$C&F)J@"
+}
